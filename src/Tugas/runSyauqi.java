@@ -12,14 +12,14 @@ package Tugas;
 public class runSyauqi {
         public static void main(String[] args){
         Syauqi Bio = new Syauqi();
-        Bio.setnamaAyah("Romeo");
-        Bio.setnamaIbu("Juliet");
-        Bio.setnamaSendiri("Frank");
-        Bio.setnamaSaudara("Mukidi");
-        Bio.setAlamat("San Fransisco");
+        Bio.setnamaAyah("Muahmmad");
+        Bio.setnamaIbu("Nikamtul");
+        Bio.setnamaSendiri("Syauqi");
+        Bio.setnamaSaudara("Fika");
+        Bio.setAlamat("Nganjuk");
         Bio.setHobi("Belajar");
-        Bio.setCitacita("Presiden");
-        Bio.setUmur(17);
+        Bio.setCitacita("CEO");
+        Bio.setUmur(16);
         
         
         System.out.println
